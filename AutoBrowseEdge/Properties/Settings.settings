@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AutoBrowseEdge.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="page" Type="System.String" Scope="User">
+      <Value Profile="(Default)">../page.txt</Value>
+    </Setting>
+    <Setting Name="cate" Type="System.String" Scope="User">
+      <Value Profile="(Default)">../pcategories.txt</Value>
+    </Setting>
+    <Setting Name="proxytime" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="times" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="proxies" Type="System.String" Scope="User">
+      <Value Profile="(Default)">../proxies.txt</Value>
+    </Setting>
+    <Setting Name="Iterval1" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="Iterval2" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="Iterval3" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="Iterval4" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="psearch" Type="System.String" Scope="User">
+      <Value Profile="(Default)">../psearch.txt</Value>
+    </Setting>
+    <Setting Name="Firefoxbin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
