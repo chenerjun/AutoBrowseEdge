@@ -104,7 +104,7 @@ namespace AutoBrowseChrome
                         driver.Manage().Window.Size = new Size(300, 200);
                         driver.Navigate().GoToUrl(thisCate);//   Category 如果要扫目录就改成 thisCate
                         driver.Close();
-                    }
+                    } 
 
 
                     // open a page
