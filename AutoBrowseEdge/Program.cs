@@ -34,7 +34,7 @@ namespace AutoBrowseChrome
             string[] allsearch = File.ReadAllLines(psearch);
 
             Random rnd1 = new Random();
-
+             
             string thisPage = "";
             string thisCate = "";
             string thissearch = "";
